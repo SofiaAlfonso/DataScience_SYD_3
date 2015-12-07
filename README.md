@@ -5,6 +5,4 @@ Data Science Course - Sydney 2015/16 - Course Work
 
 **Sofia Alfonso**
 
-[https://github.com/ihansel/SYD_DAT_3]
-
-* Bullet
+* [https://github.com/ihansel/SYD_DAT_3]
