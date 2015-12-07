@@ -3,6 +3,6 @@
 
 *08-12-2015*
 
-* **Sofia Alfonso** *
+** *Sofia Alfonso* **
 
 [https://github.com/ihansel/SYD_DAT_3]
