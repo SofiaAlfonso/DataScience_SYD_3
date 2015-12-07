@@ -7,4 +7,4 @@ Data Science Course - Sydney 2015/16 - Course Work
 
 [https://github.com/ihansel/SYD_DAT_3]
 
-*Bullet
+* Bullet
